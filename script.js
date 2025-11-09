@@ -6,7 +6,7 @@ const templates = [
 {id:"te",category:"Education",preview:"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5tIN4e9JeEvyNLJdtAIBlD7K8n4hj2v4UvY1Z60HZ317DCvynV6kMrOVO2tKp9SkmkmwncBSmvY2W6PD3AnU56icObp4Q1MHbZcnvs4HaCJEH0bMF9MBTpODGTYTPSh7PgXke25dYtMaZTJHQcfFlFyFzwToy4wW-c23BmL4ncTLbhBVYSdhHjKfPzSo/s400/te.webp",ratio:"16:9",layers:[{type:"background",color:"#B0BEC5"},{type:"polygon",points:[{x:0,y:0},{x:800,y:0},{x:800,y:500},{x:0,y:500}],color:"#FFE082",x:680,y:480,rotation:10,shadow:{color:"rgba(0,0,0,0.2)",blur:20,offsetY:5}},{type:"polygon",points:[{x:0,y:0},{x:200,y:0},{x:250,y:-50},{x:450,y:-50},{x:500,y:0},{x:800,y:0},{x:800,y:500},{x:0,y:500}],color:"#A5D6A7",x:600,y:400,rotation:5,shadow:{color:"rgba(0,0,0,0.2)",blur:20,offsetY:5}},{type:"polygon",points:[{x:0,y:0},{x:50,y:-50},{x:250,y:-50},{x:300,y:0},{x:800,y:0},{x:800,y:500},{x:0,y:500}],color:"#90CAF9",x:520,y:320,rotation:0,shadow:{color:"rgba(0,0,0,0.2)",blur:20,offsetY:5}},{type:"text",content:"How to Organize Your Life",font:"900 90px Oswald",color:"#263238",x:550,y:311,width:800}]},
 
 ]
-const "premadeTextStyles": [
+const  premadeTextStyles: [
 {"id":"a","preview":"/i/a.webp","pro":true,"layers":[{"type":"text","content":"HEADLINE","font":"900 96px Anton","color":"#FFFFFF","stroke":{"color":"#000000","width":8},"shadow":{"color":"rgba(0,0,0,0.7)","blur":10,"offsetX":5,"offsetY":5}}]},
 {"id":"b","preview":"/i/b.webp","layers":[{"type":"text","content":"Glowing Text","font":"700 80px Poppins","color":"#FFFFFF","shadow":{"color":"#FF00E5","blur":30}}]},
 {"id":"c","preview":"/i/c.webp","layers":[{"type":"text","content":"GRADIENT","font":"800 96px Montserrat","gradient":{"type":"linear","color1":"#56CCF2","color2":"#2F80ED","angle":45,"gradType":"linear"}}]},
